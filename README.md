@@ -5,11 +5,8 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-link">Link</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
-  <img alt="Imagem da landing page" src="./image1.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -21,7 +18,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Desenvolvido um menu de interação atrvés do prompt do navegador. A aplicação tem como objetivo cadastro de alunos e notas para informar a média e o status de aprovação
+Desenvolvido um menu de interação através do prompt do navegador. A aplicação tem como objetivo cadastro de alunos e notas para informar a média e o status de aprovação
+
+## 🔗 Link
+[Acesse aqui](https://alanrehfeldt.github.io/ExplorerStage04-Menu_notas/)
 
 ## :memo: Licença
 
